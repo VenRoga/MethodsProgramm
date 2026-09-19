@@ -13,8 +13,6 @@ namespace ConsoleApp1.Generation
             ClassB q = new ClassB();
             ClassB wqe = new ClassB();
             ClassB qwe = new ClassB();
-            ClassB fq = new ClassB();
-            ClassB qwggg = new ClassB();
         }
     }
 }
