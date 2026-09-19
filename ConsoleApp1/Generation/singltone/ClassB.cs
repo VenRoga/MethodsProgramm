@@ -11,6 +11,7 @@ namespace ConsoleApp1.Generation
     internal class ClassB : ILogger
     {
         ILogger Ilogger;
+        JapaneseCalendar calendar = new JapaneseCalendar();
 
 
         public ClassB()
@@ -23,7 +24,7 @@ namespace ConsoleApp1.Generation
 
         public void Log(string message) 
         {
-
+            Ilogger.Log(message);
         }
     }
 }

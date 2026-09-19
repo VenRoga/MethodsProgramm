@@ -23,7 +23,7 @@ namespace ConsoleApp1.Generation
 
         public void Log(string message)
         {
-
+            ILogger.Log(message);
         }
     }
 }
