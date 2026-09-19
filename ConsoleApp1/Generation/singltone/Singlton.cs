@@ -10,9 +10,14 @@ namespace ConsoleApp1.Generation
     {
         public static void Run()
         {
-            ClassB q = new ClassB();
-            ClassB wqe = new ClassB();
-            ClassB qwe = new ClassB();
+            ClassA classA = new ClassA();
+            ClassB classB = new ClassB();
+            ClassB classB1 = new ClassB();
+            ClassB classB2 = new ClassB();
+            ClassB classB3 = new ClassB();
+            ClassB classB4 = new ClassB();
+            ClassB classB5 = new ClassB();
+            ClassB classB6 = new ClassB();
         }
     }
 }
