@@ -59,6 +59,7 @@
     <Compile Include="Generation\FactoryMenhod\FactoryMethod.cs" />
     <Compile Include="Generation\FactoryMenhod\IComputer.cs" />
     <Compile Include="Generation\FactoryMenhod\IFactoryMethod.cs" />
+    <Compile Include="Generation\FactoryMenhod\ILogger.cs" />
     <Compile Include="Generation\FactoryMenhod\NewComputer.cs" />
     <Compile Include="Generation\FactoryMenhod\OldComputer.cs" />
     <Compile Include="Generation\prototype\ITask.cs" />
